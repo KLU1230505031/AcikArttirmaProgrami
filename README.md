@@ -81,7 +81,9 @@ int main() {
  
     return 0;
 }
+
 ACİKARTTİRMAPROGRAMİ EKRAN CİKTİLARİ
+
 ![Ekran görüntüsü 2023-12-24 192635](https://github.com/KLU1230505031/AcikArttirmaProgrami/assets/153401003/032384c4-0b5a-4d23-97da-77feff15daa5)
 
 ![Ekran görüntüsü 2023-12-24 192803](https://github.com/KLU1230505031/AcikArttirmaProgrami/assets/153401003/acb55208-49fb-4384-9e43-c761d21f3f30)
