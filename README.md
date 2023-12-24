@@ -6,7 +6,7 @@
 
  STRUCT
  
- Farklı verilerle tanımlanmıs degiskenlri tek bir yerde toplayıp farklı degiskenlere 
+ Farklı verilerle tanımlanmıs degiskenleri tek bir yerde toplayıp farklı degiskenlere 
  tek bir isaretci ile erismesine izin veren bir bileske turudur.
 
 TYPEDEF
